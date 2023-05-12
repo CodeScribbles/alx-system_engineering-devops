@@ -17,3 +17,7 @@
 
  8-firstdelete - this script Delete the file betty.
 *The file betty is in /tmp/my_first_directory
+
+9-firstdirdeletion - this script delete the directory my_first_directory that is in the /tmp directory.
+
+10-back - this script changes the working directory to the previous one
